@@ -1,0 +1,50 @@
+[
+  {
+    "certificateId": "NXS-INT-2026-1",
+    "name": "Ragul K",
+    "course": "Software Developer Internship",
+    "issueDate": "2026-06-30",
+    "image": "NXS-INT-2026-1.png",
+    "status": "verified"
+  },
+  {
+    "certificateId": "NXS-INT-2026-2",
+    "name": "Vetriselvan V",
+    "course": "Software Developer Internship",
+    "issueDate": "2026-06-30",
+    "image": "NXS-INT-2026-2.png",
+    "status": "verified"
+  },
+  {
+    "certificateId": "NXS-INT-2026-3",
+    "name": "Sarvesh S",
+    "course": "Software Developer Internship",
+    "issueDate": "2026-06-30",
+    "image": "NXS-INT-2026-3.png",
+    "status": "verified"
+  },
+  {
+    "certificateId": "NXS-INT-2026-4",
+    "name": "Vishnu J",
+    "course": "Software Developer Internship",
+    "issueDate": "2026-06-30",
+    "image": "NXS-INT-2026-4.png",
+    "status": "verified"
+  },
+  {
+    "certificateId": "NXS-INT-2026-5",
+    "name": "Sanjay R",
+    "course": "Software Developer Internship",
+    "issueDate": "2026-06-30",
+    "image": "NXS-INT-2026-5.png",
+    "status": "verified"
+  },
+  {
+    "certificateId": "NXS-INT-2026-6",
+    "name": "Swathi S",
+    "course": "Software Developer Internship",
+    "issueDate": "2026-06-30",
+    "image": "NXS-INT-2026-6.png",
+    "status": "verified"
+  }
+]
